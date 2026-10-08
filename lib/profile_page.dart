@@ -116,9 +116,9 @@ class ProfilePage extends StatelessWidget {
               ),
               Divider(height: 1),
 
-              // Baris 2: OVO Points
               Padding(
-                padding: EdgeInsets.symmetric(vertical: 16),
+                padding: EdgeInsets.symmetric(vertical: 16),git status
+
                 child: Row(
                   children: [
                     Icon(Icons.paid, size: 26),
@@ -136,7 +136,6 @@ class ProfilePage extends StatelessWidget {
               ),
               Divider(height: 1),
 
-              // Baris 3: OVO Stamp
               Padding(
                 padding: EdgeInsets.symmetric(vertical: 16),
                 child: Row(
@@ -156,7 +155,6 @@ class ProfilePage extends StatelessWidget {
               ),
               Divider(height: 1),
 
-              // Baris 4: Aplikasi Terhubung + label NEW
               Padding(
                 padding: EdgeInsets.symmetric(vertical: 16),
                 child: Row(
@@ -194,7 +192,6 @@ class ProfilePage extends StatelessWidget {
 
               SizedBox(height: 24),
 
-              // ---------- Bagian Bantuan ----------
               Text(
                 'Bantuan',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
@@ -220,7 +217,6 @@ class ProfilePage extends StatelessWidget {
 
               SizedBox(height: 24),
 
-              // ---------- Bagian Keamanan ----------
               Text(
                 'Keamanan',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
@@ -231,7 +227,7 @@ class ProfilePage extends StatelessWidget {
         ),
       ),
 
-      // ---------- MENU BAWAH ----------
+  
       bottomNavigationBar: Container(
         padding: EdgeInsets.only(top: 10, bottom: 20),
         decoration: BoxDecoration(
@@ -242,7 +238,6 @@ class ProfilePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           crossAxisAlignment: CrossAxisAlignment.end,
           children: [
-            // Tombol Home -> pindah ke HomePage pakai Navigator.push
             GestureDetector(
               onTap: () {
                 Navigator.push(
@@ -261,7 +256,6 @@ class ProfilePage extends StatelessWidget {
               ),
             ),
 
-            // Tombol Finance
             GestureDetector(
               onTap: () {},
               child: Column(
@@ -276,7 +270,6 @@ class ProfilePage extends StatelessWidget {
               ),
             ),
 
-            // Tombol Pay (lingkaran ungu besar)
             GestureDetector(
               onTap: () {},
               child: Column(
@@ -306,7 +299,6 @@ class ProfilePage extends StatelessWidget {
               ),
             ),
 
-            // Tombol Inbox (ada angka 36)
             GestureDetector(
               onTap: () {},
               child: Column(
@@ -345,7 +337,6 @@ class ProfilePage extends StatelessWidget {
               ),
             ),
 
-            // Tombol Profile (sedang di halaman Profile, jadi warnanya ungu)
             GestureDetector(
               onTap: () {},
               child: Column(
