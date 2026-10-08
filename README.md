@@ -1,17 +1,2 @@
-# slicing_ovo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="622" height="1017" alt="image" src="https://github.com/user-attachments/assets/06b5ebfd-0fc5-45b7-8a4e-a9f417ca0ce2" />
+<img width="628" height="1017" alt="image" src="https://github.com/user-attachments/assets/52aaabcb-d8ae-4d94-84c6-0b3cd3161ae8" />
